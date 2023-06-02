@@ -1,1 +1,2 @@
-Conflict marker generator.
+#!/bin/bash
+echo "ALX School"
